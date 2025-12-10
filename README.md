@@ -52,6 +52,9 @@ Les indicateurs clés de performance (KPI) ci-dessous sont requis pour ce tablea
 
 ## Dashboards KPI
 ![dashboard_RH](images/RH.png)
+![dashboard_VENTES](images/VENTES.png)
+![dashboard_FINANCES](images/FINANCES.png)
+![dashboard_LOGISTIQUE](images/LOGISTIQUE.png)
 ---
 
 ## 🛠️ Outils Utilisés  
