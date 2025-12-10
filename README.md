@@ -55,12 +55,12 @@ Les indicateurs clés de performance (KPI) ci-dessous sont requis pour ce tablea
 ![dashboard_VENTES](images/VENTES.png)
 ![dashboard_FINANCES](images/FINANCES.png)
 ![dashboard_LOGISTIQUE](images/LOGISTIQUE.png)
-![dashboard_TRELLO](images/TRELLO1.png)
+![dashboard_TRELLO](images/TRELLO2.png)
 ---
 
 ## 🛠️ Outils Utilisés  
 - **Base de données** : MySQL Workbench / DBeaver
-- **Langages** : SQL
+- **Langage** : SQL
 - **Visualisation** : Power BI / Tableau
 
 ## ⭐ Projet réalisé par :
