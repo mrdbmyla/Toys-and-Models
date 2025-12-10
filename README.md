@@ -55,6 +55,7 @@ Les indicateurs clés de performance (KPI) ci-dessous sont requis pour ce tablea
 ![dashboard_VENTES](images/VENTES.png)
 ![dashboard_FINANCES](images/FINANCES.png)
 ![dashboard_LOGISTIQUE](images/LOGISTIQUE.png)
+![dashboard_TRELLO](images/TRELLO1.png)
 ---
 
 ## 🛠️ Outils Utilisés  
