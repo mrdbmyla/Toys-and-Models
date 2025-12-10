@@ -50,11 +50,12 @@ Les indicateurs clés de performance (KPI) ci-dessous sont requis pour ce tablea
 - ⚫ **Taux d’écoulement des stocks :** Mesurer la rapidité avec laquelle les stocks sont vendus pour chaque produit.
 - ⚫ **Taux de commandes livrées en retard :** Identifier les problèmes logistiques et améliorer les délais de livraison.
 
-## Dashboards KPI
+## Dashboards KPI & Méthode AGILE
 ![dashboard_RH](images/RH.png)
 ![dashboard_VENTES](images/VENTES.png)
 ![dashboard_FINANCES](images/FINANCES.png)
 ![dashboard_LOGISTIQUE](images/LOGISTIQUE.png)
+![dashboard_TRELLO](images/TRELLO.png)
 ---
 
 ## 🛠️ Outils Utilisés  
