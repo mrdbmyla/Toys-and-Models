@@ -60,7 +60,7 @@ Les indicateurs clés de performance (KPI) ci-dessous sont requis pour ce tablea
 
 ## 🛠️ Outils Utilisés  
 - **Base de données** : MySQL Workbench / DBeaver
-- **Langage** : SQL
+- **Langage** : SQL, DAX
 - **Visualisation** : Power BI / Tableau
 
 ## ⭐ Projet réalisé par :
